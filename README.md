@@ -13,15 +13,7 @@
 
 ## 🚀 About Me
 
-javascript
-const krushnkant = {
-    location: "Pune, Maharashtra 📍",
-    education: "BCS Computer Science Graduate (2025) 🎓",
-    currentRole: "QA Professional",
-    passions: ["Automation Testing", "Quality Assurance", "Continuous Learning"],
-    goal: "Delivering reliable, high-quality software in agile environments",
-    funFact: "I turn bugs into features! 🐛➡️✨"
-};
+I am a QA professional based in Pune, Maharashtra. I hold a BCS degree in Computer Science, graduating in 2025. I am passionate about automation testing, quality assurance, and continuous learning, with a strong focus on delivering reliable, high-quality software in agile environments. I enjoy solving problems and take pride in turning bugs into improvements that enhance the product experience.
 
 
 🔭 I'm currently working on *strengthening automation frameworks* and *improving test coverage*
